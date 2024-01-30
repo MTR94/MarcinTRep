@@ -1,0 +1,31 @@
+
+
+
+
+wątki i inne uzupełnienia z języka Java.
+streamy i lambdy
+instalacja PostgreSQL i przykłady SQL
+łączenie Javy z bazą - JDBC
+pewnie Maven...
+serwlety i JSP, elementy Java EE (obecnie "Jakarta EE"), zasada działania aplikacji webowej
+Spring
+Spring Boot
+MVC - aplikacje webowe w Springu
+Hiberbate (JPA)
+Spring Data
+kontynuacja Springa
+security
+pierwsze podejście do REST
+usługi sieciowe (web services)
+SOAP (JAX-WS) - usługi klasyczne
+REST (JAX-RS) - podejście oparte o Javę EE
+REST za pomocą Spring
+
+
+Narzędzia:
+IDE: IntelliJ, ew. Eclipse
+PostgreSQL
+WildFly (serwer aplikacji Java EE)
+SOAP UI i Postman do testowania web serwisów
+
+I wiele rzeczy będzie nam pobierał w tle Maven
