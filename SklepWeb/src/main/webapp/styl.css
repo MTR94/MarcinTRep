@@ -1,0 +1,97 @@
+body {
+	background-color: #FFFFDD;
+	font-family: 'Arial', sans-serif;
+}
+
+/* komentarz w CSS */
+
+h4 {
+	text-align: center;
+}
+
+h2, h3, h4 {
+	margin-top: 0;
+}
+
+.product {
+	border: solid 2px blue;
+	margin: 1em auto 1em 50px;
+	padding: 1em;
+	background-color: white;
+	width: 800px;
+	min-height: 230px;
+	clear: right;
+}
+
+.koszyk {
+	position: fixed;
+	right: 0;
+	top: 0;
+	width: 300px;
+	height: 400px;
+	background-color: white;
+	border: outset 3px green;
+}
+
+#wyszukiwarka {
+	background-color: #AAEEFF;
+	width: 800px;
+	border: 2px black solid;
+	margin: 1em 400px 1em 50px;
+	padding: 1em;
+}
+
+.error {
+	background-color: #FFFFFF;
+	border: 6px double red;
+	margin: 20px;
+	padding: 10px;
+	color: red;
+}
+
+.photo {
+	display: block;
+	float: right;
+	max-width: 300px;
+	max-height: 200px;
+	margin: 5px;
+}
+
+.description {
+	font-size: smaller;
+	font-style: italic;
+}
+
+div.action {
+        font-size: smaller;
+        font-family: 'Arial', sans-serif;
+        font-weight: bold;
+        background-color: #DDDDDD;
+        border: 2px #444466 outset;
+        padding: 6px;
+        margin: 4px auto 4px 4px;
+        max-width: 200px;
+}
+
+.action:hover {
+        background-color: #EEEEEE;
+        border: 2px #4455CC outset;
+}
+
+.action:active {
+        background-color: #EEEEEE;
+        border: 2px #CC4455 inset;
+}
+ 
+.action a {
+        display: inline-block;
+        color: inherit;
+        text-decoration: none;
+        width: 100%;
+}
+
+.action a:hover {
+        color: #0000CC;
+}
+
+
